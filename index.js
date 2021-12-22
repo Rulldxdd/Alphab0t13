@@ -179,9 +179,9 @@ fthumb = setting.fakethumb
 hit_today = []
 blocked = []
 ban = []
-limitawal = "50"
+limitawal = "20"
 gcounttprem = "50" 
-gcounttuser = "25" 
+gcounttuser = "20" 
 
 let multi = true
 let nopref = false
